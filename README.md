@@ -1,6 +1,6 @@
-## 🚀 AliCarGo - Car Rental Marketplace Hackathon
+# 🚀 AliCarGo - Car Rental Marketplace Hackathon
 
-Welcome to the official repository for the **Car Rental Marketplace Hackathon Project**. This project was built during a 7-day hackathon, focusing on creating a dynamic, user-friendly, and fully functional car rental marketplace platform.
+Welcome to the official repository for **AliCarGo**, the Car Rental Marketplace Hackathon Project. This project was built during a 7-day hackathon, focusing on creating a dynamic, user-friendly, and fully functional car rental marketplace platform.
 
 ## 📅 Hackathon Structure
 
@@ -42,10 +42,10 @@ The hackathon was divided into 7 key phases:
 - Implemented post-launch best practices for continuous improvement.
 
 ## 🌐 Live Demo
-Check out the live version of our Car Rental Marketplace [https://alicargo-online.vercel.app/](#).
+Check out the live version of **AliCarGo** [https://alicargo-online.vercel.app/](#).
 
-## 👤 Owner & Contributor
-- **Muhammad Ali Shahid** - Owner & Founder of the project
+## 👤 Owner & Founder
+- **Muhammad Ali Shahid** - Owner & Founder of **AliCarGo**
 
 
 
