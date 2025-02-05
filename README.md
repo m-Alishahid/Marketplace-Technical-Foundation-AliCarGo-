@@ -45,7 +45,7 @@ The hackathon was divided into 7 key phases:
 Check out the live version of **AliCarGo** [https://alicargo-online.vercel.app/](#).
 
 ## 👤 Owner & Founder
-- **Muhammad Ali Shahid** - Owner & Founder of **AliCarGo**
+- **Muhammad Ali Shahid** 
 
 
 
